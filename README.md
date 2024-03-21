@@ -1,4 +1,4 @@
-# BBWP
+# BranchWM
 
 This project is about the paper "Performance-lossless Black-box Model Watermarking".
 
